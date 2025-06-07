@@ -1,0 +1,1 @@
+::(leq 0.75 (impl (neg (impl x6 (impl x10 (neg (impl x6 x2))))) x9)):(leq 0.25 (con x9 (con x7 (neg (con x7 (neg (impl x5 x5))))))):(leq 0.0 (neg (con x1 (con x3 (neg (impl x4 (neg (impl x6 x4)))))))):(leq 0.0 (con (neg (impl x1 x3)) (neg (con x5 (con x3 x2))))):(leq 1.0 (neg (con (neg (impl x1 x8)) (neg (impl x3 (neg (impl x1 x6)))))))

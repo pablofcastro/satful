@@ -1,0 +1,4 @@
+1;1;NP(IP(x1,NP(IP(x8,NP(TP(x1,NP(IP(x4,x10))))))))
+1;1;IP(NP(TP(x4,x3)),TP(NP(IP(x2,x9)),x7))
+0;0.5;NP(IP(TP(x2,x4),NP(TP(NP(TP(x2,x6)),x1))))
+1;1;IP(NP(IP(x10,x5)),NP(IP(x8,NP(IP(x1,x3)))))
