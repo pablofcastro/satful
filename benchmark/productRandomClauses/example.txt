@@ -1,0 +1,9 @@
+1.0;1.0;IP(IP(a,b),IP(IP(b,c),IP(a,c)))
+1.0;1.0;IP(TP(a,b),a)
+1.0;1.0;IP(TP(a,b),TP(b,a))
+1.0;1.0;IP(TP(a, IP(a,b)),TP(b, IP(b,a)))
+1.0;1.0;IP(IP(a, IP(b,c)), IP(TP(a,b), c))
+1.0;1.0;IP(IP(TP(a,b) , c) , IP(a,IP(b,c)))
+1.0;1.0;IP(IP(IP(a,b),c), IP(IP(IP(b,a) ,c),c))
+1.0;1.0;IP(0,a)
+                                          

@@ -1,0 +1,21 @@
+
+Gurobi 10.0.3 (mac64[arm], Python) logging started Sat Feb  8 14:14:57 2025
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+
+Gurobi 10.0.3 (mac64[arm], Python) logging started Sat Feb  8 17:03:23 2025
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+
+Gurobi 10.0.3 (mac64[arm], Python) logging started Thu May 22 06:27:57 2025
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+
+Gurobi 10.0.3 (mac64[arm], gurobi_cl) logging started Thu May 22 06:28:12 2025
+
+Set parameter Username
+Set parameter LogFile to value "gurobi.log"
+Using license file /Users/pablo/gurobi.lic
