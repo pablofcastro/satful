@@ -12,9 +12,11 @@ the tool is completly written in Python and uses MINLP solvers for solving SAT p
 
 The typical command for running the tool is
 
-> python PL/satful.pl [-l|-s] -i <filename>
+```
+python PL/satful.pl [-l|-s] -i <filename>
+```
 
-with option *-g* the tool uses Gurobi to solve the non-linear equations, with option *-s* the tool uses the solver SCIP. T You need to have installed some of these libraries to run the tool. 
+with option `-g` the tool uses Gurobi to solve the non-linear equations, with option `-s` the tool uses the solver SCIP. T You need to have installed some of these libraries to run the tool. 
 
 # Benchmarks
 
