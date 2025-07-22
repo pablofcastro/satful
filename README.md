@@ -3,7 +3,7 @@
 SATFuL is a simple solver for fuzzy logics, including:
 
 * Lukasiewicz logic
-* Produc logic
+* Product logic
 * Godel logic
 
 the tool is completly written in Python and uses MINLP solvers for solving SAT problems for these logics.
