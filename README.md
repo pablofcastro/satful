@@ -20,4 +20,4 @@ with option `-g` the tool uses Gurobi to solve the non-linear equations, with op
 
 # Benchmarks
 
-The folder ``benchmarks/```contains several benchmarks and scripts used for evaluating the performance of the tool. 
+The folder ``benchmarks/`` contains several benchmarks and scripts used for evaluating the performance of the tool. 
